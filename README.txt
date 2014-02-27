@@ -14,5 +14,6 @@ Yatel resources
 - web_logo.png: webpage logo
 - repo_logo_template.png: repository template logo
 - repo_logo.png: this repository logo
+- tramas: various usefult backgroudns
 
 :DESIGNER: Paula Lorca <paulalorca89@hotmail.com>
